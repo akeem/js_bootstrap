@@ -24,7 +24,7 @@ provided as a vanilla bash script.
 ##Requirement
 
 At the moment requirements should be the following:
-* bash
-* curl or wget
-* read and write permissions on the output directory
+*  bash
+*  curl or wget
+*  read and write permissions on the output directory
 
